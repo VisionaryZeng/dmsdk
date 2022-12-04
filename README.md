@@ -25,7 +25,7 @@ godlp 能够广泛支持结构化（JSON数据、KV数据、golang map）和非�
 # 三、接入方式
 
 ```shell
-go get github.com/bytedance/godlp@latest
+go get github.com/VisionaryZeng/dmsdk@latest
 ```
 
 示例代码在 `mainrun/mainrun.go` 文件中

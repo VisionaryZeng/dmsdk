@@ -11,9 +11,9 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/bytedance/godlp/conf"
-	"github.com/bytedance/godlp/dlpheader"
-	"github.com/bytedance/godlp/errlist"
+	"github.com/VisionaryZeng/dmsdk/conf"
+	"github.com/VisionaryZeng/dmsdk/dlpheader"
+	"github.com/VisionaryZeng/dmsdk/errlist"
 )
 
 // RuleType is different with ResultType, bacause for input string contains KV object, KV rule will generate Value Detect Type

@@ -8,10 +8,10 @@ import (
 	"strings"
 	"unsafe"
 
-	"github.com/bytedance/godlp/conf"
-	"github.com/bytedance/godlp/detector"
-	"github.com/bytedance/godlp/dlpheader"
-	"github.com/bytedance/godlp/mask"
+	"github.com/VisionaryZeng/dmsdk/conf"
+	"github.com/VisionaryZeng/dmsdk/detector"
+	"github.com/VisionaryZeng/dmsdk/dlpheader"
+	"github.com/VisionaryZeng/dmsdk/mask"
 	"gopkg.in/yaml.v2"
 )
 
@@ -28,7 +28,7 @@ func init() {
 const (
 	// outter const values
 	Version     = "v1.2.15"
-	PackageName = "github.com/bytedance/godlp"
+	PackageName = "github.com/VisionaryZeng/dmsdk"
 	FullVer     = PackageName + "@" + Version
 )
 

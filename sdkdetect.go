@@ -10,9 +10,9 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/bytedance/godlp/detector"
-	"github.com/bytedance/godlp/dlpheader"
-	"github.com/bytedance/godlp/errlist"
+	"github.com/VisionaryZeng/dmsdk/detector"
+	"github.com/VisionaryZeng/dmsdk/dlpheader"
+	"github.com/VisionaryZeng/dmsdk/errlist"
 )
 
 // public func
