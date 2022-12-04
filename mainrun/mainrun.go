@@ -178,4 +178,5 @@ mac地址 06-06-06-aa-bb-cc
 
 func main() {
 	dlpDemo()
+	dlpDemo()
 }
